@@ -2,12 +2,20 @@
 ## Introduction
 A list of awesome artificial intelligence resources for the [GLAM community](https://en.wikipedia.org/wiki/GLAM_(industry_sector)).  Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
+The goal of this list is to 
+
 ## Table of Contents
 ## Contribute
 If you would like to contribute to this list, please check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Please ensure your pull request adheres to the following guidelines:
 \[guidelines forthcoming\]
+
+## Maintainers/Sponsors
+
+Current maintainers:
+
+* [Marcus Barnes](https://github.com/MarcusBarnes)
 
 ## License
 
