@@ -1,4 +1,4 @@
-# Awesome AI for Libraries
+# Awesome AI for Libraries [![DOI](https://zenodo.org/badge/132942903.svg)](https://zenodo.org/badge/latestdoi/132942903)
 ## Introduction
 A list of awesome artificial intelligence resources for the [GLAM community](https://en.wikipedia.org/wiki/GLAM_(industry_sector)).  Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
