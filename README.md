@@ -2,7 +2,7 @@
 ## Introduction
 A list of awesome artificial intelligence resources for the [GLAM community](https://en.wikipedia.org/wiki/GLAM_(industry_sector)).  Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
-The goal of this list is to 
+The goal of this list is to create a curated list of various materials related to AI in Galleries, Libraries, Archives, and Museums.  For a broad introduction to the field of artificial intelligence, please see the [Awesome Artificial Intelligence (AI) list](https://github.com/owainlewis/awesome-artificial-intelligence) of AI courses, books, video lectures and papers.
 
 ## Table of Contents
 ## Contribute
