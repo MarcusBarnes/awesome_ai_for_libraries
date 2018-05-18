@@ -24,6 +24,9 @@ Current maintainers:
 To the extent possible under law, the owner has waived all copyright and related or neighboring rights to this work.
 
 ## The List
+### AI Labs
+* The AI Lab at the Robert L. Carothers Library, The University of Rhode Island.  See the news release [Artificial intelligence lab to be accessible to all uri students](https://web.uri.edu/engineering/ai-lab-to-be-accessible-to-all-uri-students/) for details and tenative launch schedule.
+
 ### Bibliography
 #### Presentations
 #### Journal Articles and Published Conference Proceedings
