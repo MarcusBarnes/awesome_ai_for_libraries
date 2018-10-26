@@ -31,6 +31,10 @@ To the extent possible under law, the owner has waived all copyright and related
 #### Presentations
 * Ridley, M. (2018). [Are AIs Literate? Reading and Writing Artificial Intelligence](https://www.dropbox.com/s/04z8fexen2je12i/AI%20Literacy%20OLA%20SC%202018.pptx?dl=0). Ontario Library Association SuperConference, Toronto, Ontario.
 #### Journal Articles and Published Conference Proceedings
+
+#### Book Chapters
+* Joiner, I. A. (2018). Chapter 1 - Artificial Intelligence: AI is Nearby. Emerging Library Technologies (pp. 1-22). Cambridge, MA: Chandos Publishing. [doi:10.1016/B978-0-08-102253-5.00002-2](https://doi.org/10.1016/B978-0-08-102253-5.00002-2)
+
 #### Theses, Dissertations, and Coursework
 #### Other
 
