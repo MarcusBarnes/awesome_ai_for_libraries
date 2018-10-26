@@ -33,3 +33,5 @@ To the extent possible under law, the owner has waived all copyright and related
 #### Journal Articles and Published Conference Proceedings
 #### Theses, Dissertations, and Coursework
 #### Other
+
+* Mogali, Shivaranjini. (2014). [Artificial Intelligence and its applications in Libraries.](https://www.researchgate.net/publication/287878456_Artificial_Intelligence_and_its_applications_in_Libraries)
