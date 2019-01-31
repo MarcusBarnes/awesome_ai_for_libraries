@@ -39,3 +39,6 @@ To the extent possible under law, the owner has waived all copyright and related
 #### Other
 
 * Mogali, Shivaranjini. (2014). [Artificial Intelligence and its applications in Libraries.](https://www.researchgate.net/publication/287878456_Artificial_Intelligence_and_its_applications_in_Libraries)  Retrieved from https://www.researchgate.net/publication/287878456_Artificial_Intelligence_and_its_applications_in_Libraries 
+
+##### Mailing Lists
+* [ai4lib](https://groups.google.com/forum/#!forum/ai4lib) Google Group
